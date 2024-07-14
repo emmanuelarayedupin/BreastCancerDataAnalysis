@@ -22,7 +22,7 @@ The analysis includes:
 ![Total Samples vs Breast Samples](total_samples_vs_breast_samples.png)
 
 ### Positive Breast Cancer Cases Over the Years
-![Positive Breast Cancer Cases](results/positive_breast_cancer_cases.png)
+![Positive Breast Cancer Cases](positive_breast_cancer_cases.png)
 
 ## How to Run the Analysis
 1. Clone this repository.
