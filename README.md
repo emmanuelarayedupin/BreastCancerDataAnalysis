@@ -16,6 +16,14 @@ The analysis includes:
 - Descriptive statistics of the data.
 - Visualizations showing trends in total samples, breast samples, and positive breast cancer cases over the years.
 
+## Statistical Analysis
+The correlation between Total Breast Samples and Positive Breast Cancers is calculated using Pearson correlation.
+
+**Results:**
+- Correlation: `value`
+- P-value: `value`
+
+The results indicate the strength and significance of the relationship between the total breast samples and positive breast cancer cases.
 
 ## Visualizations
 
