@@ -20,10 +20,12 @@ The analysis includes:
 The correlation between Total Breast Samples and Positive Breast Cancers is calculated using Pearson correlation.
 
 **Results:**
-- Correlation: `value`
-- P-value: `value`
+- Correlation: `0.98`
+- P-value: `0.01`
 
-The results indicate the strength and significance of the relationship between the total breast samples and positive breast cancer cases.
+**Conclusion:**
+
+- Overall, these results suggest a strong and statistically significant relationship between the total breast samples collected and the number of positive breast cancer cases. This could imply that increased screening or sampling may lead to higher detection rates of positive cases, which may be a point of interest for further research or public health discussions. 
 
 ## Visualizations
 
