@@ -19,7 +19,7 @@ The analysis includes:
 ## Visualizations
 
 ### Total Samples and Breast Samples Over the Years
-![Total Samples vs Breast Samples](results/total_samples_vs_breast_samples.png)
+![Total Samples vs Breast Samples](total_samples_vs_breast_samples.png)
 
 ### Positive Breast Cancer Cases Over the Years
 ![Positive Breast Cancer Cases](results/positive_breast_cancer_cases.png)
