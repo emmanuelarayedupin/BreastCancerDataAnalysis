@@ -16,11 +16,6 @@ The analysis includes:
 - Descriptive statistics of the data.
 - Visualizations showing trends in total samples, breast samples, and positive breast cancer cases over the years.
 
-# Statistical analysis
-# Correlation between Total_Breast_Samples and Positive_Breast_Cancers
-correlation, p_value = pearsonr(data['Total_Breast_Samples'], data['Positive_Breast_Cancers'])
-print(f'Correlation: {correlation}, P-value: {p_value}')
-
 
 ## Visualizations
 
